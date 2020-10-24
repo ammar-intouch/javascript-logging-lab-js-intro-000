@@ -1,3 +1,3 @@
 console.error("VICTORY!!")
 console.log("AMMAR!!")
-console.warn("COMPLETED!!")
+console.warn("DONE!!")
