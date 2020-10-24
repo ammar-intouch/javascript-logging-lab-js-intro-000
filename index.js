@@ -1,1 +1,3 @@
-console.error("victory!")
+console.error("VICTORY!!")
+console.log("AMMAR!!")
+console.warn("COMPLETED!!")
